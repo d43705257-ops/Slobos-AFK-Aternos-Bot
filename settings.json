@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bakraghakra.aternos.me:27310",
+    "ip": "bakraghakra.aternos.me",
     "port": 27310,
     "version": "",
     "try-creative": false
